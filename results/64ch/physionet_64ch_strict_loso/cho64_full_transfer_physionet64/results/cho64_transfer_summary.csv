@@ -1,0 +1,2 @@
+method,n_subjects,mean_accuracy,std_accuracy,median_accuracy,mean_balanced_accuracy,mean_macro_f1,mean_kappa,mean_best_epoch,mean_accuracy_pct
+Cho64_Full_Transfer,109,0.6586654389333694,0.13836766320413,0.6444444444444445,0.6595621491218989,0.6321765526243911,0.31896689225608854,8.990825688073395,65.86654389333694

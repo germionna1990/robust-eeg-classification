@@ -1,0 +1,6 @@
+dataset,model,accuracy
+BCI,CCST,0.6827
+BCI,EEGCCT,0.6875
+BCI,Hybrid t-CViT,0.6975
+PhysioNet,GAF-PLV,0.5807
+PhysioNet,CCST,0.7189

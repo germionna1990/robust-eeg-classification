@@ -1,0 +1,2 @@
+method,n_subjects,mean_accuracy,std_accuracy,median_accuracy,mean_balanced_accuracy,mean_macro_f1,mean_kappa,mean_best_epoch,mean_accuracy_pct
+CCST22,106,0.6446394617522305,0.12756689260774803,0.6222222222222222,0.6445990432864921,0.5964193012077369,0.2890044542452432,10.245283018867925,64.46394617522306

@@ -1,0 +1,9 @@
+dataset,classifier,mean_accuracy
+BCI,Baseline,0.5795
+BCI,Transfer,0.5808
+BCI,SupCon,0.583912037037037
+BCI,Transfer + SupCon,0.5862268518518519
+PhysioNet,Baseline,0.7538
+PhysioNet,Transfer,0.7678
+PhysioNet,SupCon,0.7573643410852713
+PhysioNet,Transfer + SupCon,0.7791185217688069

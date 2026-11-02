@@ -1,0 +1,22 @@
+{
+  "dataset": "PhysioNet EEG Motor Movement/Imagery",
+  "subjects": 109,
+  "channels": 64,
+  "classes": [
+    "left_hand",
+    "right_hand"
+  ],
+  "sampling_rate": 160,
+  "bandpass": [
+    7,
+    30
+  ],
+  "trial_samples": 481,
+  "evaluation": "109-fold strict LOSO",
+  "validation": "10% of source-subject trials, stratified",
+  "ccst_mean_accuracy": 0.7365124638635918,
+  "ours_mean_accuracy": 0.6867828396822366,
+  "published_ccst_reference": 0.7189,
+  "our_method": "Cho Transfer + SupCon + GRL",
+  "notes": "CCST and our pipeline evaluated on identical 64-channel binary L/R LOSO benchmark."
+}
