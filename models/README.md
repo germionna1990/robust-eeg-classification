@@ -11,4 +11,4 @@
 - `multichannel_bci_denoiser.pt` — multichannel BCI denoiser;
 - `taskaware_multichannel_denoiser.pt` — task-aware multichannel denoiser.
 
-Checkpoints are stored separately in the research artifact folder for NIR 3.
+Обученные checkpoints хранятся отдельно в папке артефактов исследования НИР 3.
