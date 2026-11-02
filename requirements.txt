@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+
+torch
+torchvision
+
+mne
+moabb
+
+jupyter
+notebook
+ipykernel
+tqdm
